@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="pauseBar" transform="translate(-945 -873)">
+    <circle id="타원_3" data-name="타원 3" cx="15.5" cy="15.5" r="15.5" transform="translate(945 873)" fill="#564aff"/>
+    <g id="그룹_100" data-name="그룹 100" transform="translate(1)">
+      <rect id="사각형_63" data-name="사각형 63" width="5" height="17" transform="translate(953 880)" fill="#fff"/>
+      <rect id="사각형_64" data-name="사각형 64" width="5" height="17" transform="translate(961 880)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

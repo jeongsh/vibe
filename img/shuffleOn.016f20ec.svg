@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="shuffleOn" transform="translate(-841 -877)">
+    <rect id="사각형_60" data-name="사각형 60" width="22" height="22" transform="translate(841 877)" fill="none"/>
+    <g id="그룹_99" data-name="그룹 99" transform="translate(844 880)">
+      <g id="그룹_97" data-name="그룹 97" transform="translate(11.859 9.501)">
+        <path id="패스_85" data-name="패스 85" d="M342.141,0l-.434.434,2.113,2.113v.614l-2.113,2.113.434.434,2.854-2.854Z" transform="translate(-341.707)" stroke="#000" stroke-width="0.1"/>
+      </g>
+      <g id="그룹_98" data-name="그룹 98" transform="translate(11.859 0)">
+        <path id="패스_85-2" data-name="패스 85" d="M342.141,0l-.434.434,2.113,2.113v.614l-2.113,2.113.434.434,2.854-2.854Z" transform="translate(-341.707)" stroke="#000" stroke-width="0.1"/>
+      </g>
+      <path id="패스_91" data-name="패스 91" d="M26.191,94.632H24.429a4.164,4.164,0,0,1-3.422-2.218l-2.9-4.677a4.915,4.915,0,0,0-4.089-2.587H12.2v.79h1.82a4.167,4.167,0,0,1,3.422,2.215l2.9,4.677a4.918,4.918,0,0,0,4.089,2.59h1.762S26.191,94.632,26.191,94.632Z" transform="translate(-12.2 -82.662)"/>
+      <path id="패스_92" data-name="패스 92" d="M26.191,85.94H24.429a4.164,4.164,0,0,0-3.422,2.218l-2.9,4.677a4.915,4.915,0,0,1-4.089,2.587H12.2v-.79h1.82a4.167,4.167,0,0,0,3.422-2.215l2.9-4.677a4.918,4.918,0,0,1,4.089-2.59h1.762S26.191,85.94,26.191,85.94Z" transform="translate(-12.2 -82.662)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="random" transform="translate(-1065 -877)">
+    <rect id="사각형_59" data-name="사각형 59" width="22" height="22" transform="translate(1065 877)" fill="none"/>
+    <g id="replay" transform="translate(1069 880)">
+      <g id="그룹_93" data-name="그룹 93" transform="translate(0.127 0)">
+        <g id="그룹_92" data-name="그룹 92">
+          <path id="패스_85" data-name="패스 85" d="M42.795,0l-.434.434,2.113,2.113H35.513a3.082,3.082,0,0,0-3.079,3.079V7.54h.614V5.626a2.468,2.468,0,0,1,2.465-2.465h8.961L42.361,5.273l.434.434,2.854-2.854Z" transform="translate(-32.434)" fill="#8b8b8b" stroke="#8b8b8b" stroke-width="0.1"/>
+        </g>
+      </g>
+      <g id="그룹_95" data-name="그룹 95" transform="translate(0 7.63)">
+        <g id="그룹_94" data-name="그룹 94">
+          <path id="패스_86" data-name="패스 86" d="M41.075,237.714v1.914a2.468,2.468,0,0,1-2.465,2.465H29.649l2.113-2.113-.434-.434L28.474,242.4l2.854,2.854.434-.434-2.113-2.113H38.61a3.082,3.082,0,0,0,3.079-3.079v-1.914Z" transform="translate(-28.474 -237.714)" fill="#8b8b8b" stroke="#8b8b8b" stroke-width="0.1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
